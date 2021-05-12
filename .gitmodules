@@ -1,0 +1,3 @@
+[submodule "Huawei-AKG"]
+	path = 3rd_party/akg
+	url = https://github.com/mindspore-ai/akg.git
