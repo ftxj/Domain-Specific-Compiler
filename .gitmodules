@@ -1,3 +1,7 @@
 [submodule "Huawei-AKG"]
 	path = 3rd_party/akg
 	url = https://github.com/mindspore-ai/akg.git
+
+[submodule "bufftes"]
+	path = 3rd_party/acclerators/buffets
+	url = https://github.com/cwfletcher/buffets.git
